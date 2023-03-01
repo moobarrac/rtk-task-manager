@@ -1,5 +1,5 @@
 {
-  "name": "superkanban",
+  "name": "manager",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -46,7 +46,7 @@
     "@types/jest": "^29.2.3",
     "@types/lodash.shuffle": "^4.2.7",
     "@types/lodash.uniqueid": "^4.0.7",
-    "@types/node": "^18.11.9",
+    "@types/node": "^18.14.2",
     "@types/react": "^18.0.24",
     "@types/react-dom": "^18.0.8",
     "autoprefixer": "^10.4.13",
